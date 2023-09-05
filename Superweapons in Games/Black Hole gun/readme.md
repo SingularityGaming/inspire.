@@ -1,3 +1,0 @@
-- https://unreal.fandom.com/wiki/Singularity_Cannon
-- https://quake.fandom.com/wiki/Dark_Matter_Gun
-- https://youtu.be/_ZjkE2-RDa4
